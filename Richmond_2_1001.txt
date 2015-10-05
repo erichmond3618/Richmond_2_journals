@@ -1,0 +1,8 @@
+file sytems are is used to decide how files are logically placed for storage and retrieval.
+
+inodes are data structures that store all the information about a file, besides its name and actual data.
+
+disk partitions are parts of the hard drive allocated for different files and such. Theyre kinda like big files.
+
+Journaling file systems keep track of changes not yet committed to the main part of the file system, so in the case of a system crash those changes will be remembered.
+

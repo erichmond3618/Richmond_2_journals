@@ -1,0 +1,23 @@
+This is how I got the emails in directory.cfm:
+I typed cat -n directory.cfm | grep -aio " [^<^>^@]*@[^ ]* "
+and then emails appeared.
+
+ @ 
+ href="mailto:wclaug@neisd.net">Russ 
+ href="mailto:wclaug@neisd.net">wclaug@neisd.net</a></p></td></tr><tr><th 
+ href="mailto:rarroy@neisd.net">rarroy@neisd.net</a></p></td></tr></tbody></table><table 
+ href="mailto:clocka@neisd.net">clocka@neisd.net</a></p></td></tr></tbody></table><br><h4 
+ href="mailto:gbekar@neisd.net">gbekar@neisd.net</a></span><br><div 
+ href="mailto:bblanc@neisd.net">bblanc@neisd.net</a><br></td><td 
+ href="mailto:jcontr1@neisd.net">jcontr1@neisd.net</a></div></td><td 
+ href="mailto:mdagge1@neisd.net">mdagge1@neisd.net</a></div></td></tr><tr><td 
+ href="mailto:ddavis2@neisd.net">ddavis2@neisd.net</a></div></td><td 
+ href="mailto:mfalco1@neisd.net">mfalco1@neisd.net</a></span></div></td><td 
+ href="mailto:jgrant5@neisd.net">jgrant5@neisd.net</a></div></td><td 
+ href="mailto:agnosp@neisd.net">agnosp@neisd.net</a></span></p></td></tr><tr><td 
+ href="mailto:shudso@neisd.net">shudso@neisd.net</a></span></div></td><td 
+ href="mailto:apape@neisd.net">apape@neisd.net</a></p></td><td 
+ href="mailto:kphilb1@neisd.net">kphilb1@neisd.net</a></p></td><td 
+ href="mailto:jstanc@neisd.net">jstanc@neisd.net</a></div></td></tr><tr><td 
+ href="mailto:jvidal1@neisd.net">jvidal1@neisd.net</a></div></td></tr></tbody></table><br><div 
+ @ 
