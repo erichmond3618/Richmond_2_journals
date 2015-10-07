@@ -1,0 +1,26 @@
+grep -abif searchterms.txt practical.floppy.dd > hits.txt
+this grep finds a ransom note from a 1337 hacker placed inside of practical.floppy.dd
+
+cat hits.txt
+this reads hit.txt
+
+xxd -s 75441 practical.floppy.dd | less
+This command performs a hex dump of practical.floppy.dd
+
+fallocate -l 10M file.out
+this command allocates 10M of memory to a disk named file.out
+
+dd -h
+this command is supposed to show partition information, but we don't have it on our computers.
+
+dd if=/dev/zero of=file.out
+this command fills file.out with a bunch of 0s made from /dev/zero
+
+dd if=/dev/zero bs=1M count=10M of=file2.out
+this command takes the "direct data" from /dev/zero, which produces a bunch of 0s, and puts it in file2.out. the size of the file is 1M*10M.
+
+xxd -a file.out
+this command performs a hexdump of file.out, but replaces all the lines filled with 0s with *
+
+xxd -a practical.floppy.dd
+that^
