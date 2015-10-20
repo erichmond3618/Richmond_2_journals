@@ -1,0 +1,10 @@
+a disk image is a clone of a disk, or hard drive.
+when you clone it with the command:
+dd if=?dev/sda of=suspiciousdrive.img
+you get an .img file.
+you then mount the file with the command:
+mount -t vfat -o ro,noexec /dev/fd0 /mnt/analysis
+disk partitions are sections of the disk with allocated memory. kinda like a big folder.
+there are as many disk partitions in a disk image as the user wants there to be. usually 1-3.
+when you mount a disk image, you only mount one partition if there is more than one. That can be an issue.
+In order to work around this issue, you have to find the bit locations of the start of each partition. 
