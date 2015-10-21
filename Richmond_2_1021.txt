@@ -1,0 +1,3 @@
+data carving is getting specific data from a big bunch of data. like grepping secret 
+messages from the slackspace, thats just a part of it though.
+
