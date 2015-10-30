@@ -1,0 +1,12 @@
+because disk images are nice, digital representations of real drives, 
+that you can send over email, or examine without messing with the original 
+evidence.
+So like, you have 20 hard drives,and you need a digital forensicist to take
+a look at em, so you make images out of all of em, and you email em. Then
+ the forensicist mounts the drive and checks it out.
+
+mkdir directory
+mount -v -o -t ext4 img.img /mnt/
+
+fallocate -l 10M file.out
+cp /fileplace/file /newfileplace
