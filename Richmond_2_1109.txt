@@ -1,0 +1,3 @@
+recover deleted files with grep -b 'search-text' /dev/partition > file.txt
+you need to know where the files are 
+
