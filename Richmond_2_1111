@@ -1,0 +1,2 @@
+to recover deleted text, grep -ai "words usually in regular expressions" file
+
