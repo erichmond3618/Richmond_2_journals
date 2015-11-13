@@ -1,0 +1,5 @@
+to split a file use 
+split -b 700m <#file_to_split#> parts_
+
+to combine files use 
+cat parts_* > <#merge_file_name#>
