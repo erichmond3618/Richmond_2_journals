@@ -1,0 +1,9 @@
+create disk image- fallocate name, then mkfs.ext4 name
+partition disk image- cfdisk -l name
+write files to disk image- mount -v -o -t ext4 image.img /place
+then you put files in the mounted folder
+then you umount /place
+
+to split files in linux use-
+split -b sizeofpiecesofsplitk /place/ name_
+
