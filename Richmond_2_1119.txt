@@ -1,0 +1,9 @@
+First we search for the start of the picture(its header) We search for its header by using the command xxd
+Then we grep to find the line.
+Using the value from that - we use echo and bc to convert hexidecimal to a decimal number.
+For example, in the example from yesterday, we found the jpeg header and converted it to decimal using the command echo "ibase=16; 00052A0" | bc
+Then to find the end of the file, we searched for the end of the file using the command xxd -s 21156 image_carve.raw | grep ffd9
+******************************************************
+Using that information, we find the number of bits, using the command echo "ibase=16;0006C74" | bc
+Then using dd we can reconstruct the file using the command dd if=image_carve.raw of=carv.jpg skip=21156 bs=1 count=6610
+
