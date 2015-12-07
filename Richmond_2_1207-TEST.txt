@@ -1,0 +1,23 @@
+Generalizing a skill is basically taking a skill and making it usefull in more situations.
+An Example would be learning to recover png files, then, to generalize the skill 
+to recovering a lot of file types, learning the the differences between recovering 
+a png, a pdf, a doc, etc. 
+
+five likely questions on the final exam:
+what does grep do?
+grep is used mainly to find text in files.
+how do you mount an image?
+you mount an image with the command mnt image.img /mnt/folder/
+how do you split a file?
+split -n 3 /folder/place name_
+how do recover a jpg?
+xxd image.raw | grep ffd8
+echo "ibase=16;<location of header in hex>" | bc
+xxd -s <location in dec> image.raw | grep ffd9
+echo "ibase=16;<location of tail in hex>" | bc
+echo "<tail> - <header>" | bc
+dd if=image.raw of=picture.jpg skip= <header> bs=1 count=<tail-header>
+how do you unmount an image?
+umount /mnt/folder/
+
+You should ask these questions cause they are important in digital forensics.
