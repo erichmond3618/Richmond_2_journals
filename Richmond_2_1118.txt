@@ -1,0 +1,3 @@
+the file header for a JPG is JFIF
+the file header for a png is PNG
+

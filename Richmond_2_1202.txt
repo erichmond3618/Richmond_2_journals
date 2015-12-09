@@ -1,0 +1,3 @@
+We are learning how to find the beginning and end of files in hex code to recover them.
+learning how to look at hex code like this could lead to changing files in many different ways 
+through the hex code.
