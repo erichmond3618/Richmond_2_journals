@@ -1,0 +1,6 @@
+1.we would xxd and pipe through head 2 different zblorbs and find the first 4 
+characters in the files that are the same. thats the header. then pipe xxd 
+through tail and find 4 characters that are the same in both at the end. that
+ is the tail.
+
+2
