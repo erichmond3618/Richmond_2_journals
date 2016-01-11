@@ -1,0 +1,16 @@
+1. mmls -t dos newfloppy.img doesn't have magic values or something
+3. mmls -t dos manypartitions3.disk acually shows imformation. it says its a 
+Dos Partion Table, and there is a table of information.
+4. the first column is Slot.
+5. some possible values for Slot are Meta, -----, or 00:01, 00:02, etc. these 
+are the placements of the partitions.
+6. mmls -t list tells you the supported partition types
+7. raw, aff, afd, afm, afflib, ewf, and split seem to ber file types that are
+used in digital forensics.
+8. I don't believe this is a question.
+9. mmls manypartitions3.disk does the same thing as mmls -t dos, as it 
+autodetects the type as being dos.
+10. mmlls -a seems to just show the actual partitions on disk, this excludes
+the slots named ----- and Meta.
+11.fdisk -lu manypartitions3.disk is pretty similar to mmls -a, it has 2 extra
+columns though, size and Id.
