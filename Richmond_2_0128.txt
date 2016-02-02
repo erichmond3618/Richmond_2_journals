@@ -1,0 +1,13 @@
+pst files are personal storage files, an open proprietary file that can be 
+used to store copies of messages and calendar events, and other items within 
+Microsoft software.
+
+pffinfo determines information about a Personal Folder File. looking at file information
+is something you need to do sometimes in digital forensics
+pffexport exports items stored in a Personal Folder File. sometimes you need to retrieve
+some files in digital forensics
+
+mairix indexes and searches mail folders. this allows you to check the culprits mail.
+
+grepmail searches mailboxes for mail matching a regular expression. this allows you to
+look for specific mail.	

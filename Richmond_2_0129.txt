@@ -1,0 +1,11 @@
+There are 4 directories in outlook.pst.export
+IPM_COMMON_VIEWS  IPM_VIEWS  Search Root  Top of Personal Folders
+
+there are 222 messages in Top of Personal Folders/Inbox/
+they're all titled Message00001-00222
+
+Message00207 is the one thats super sketch
+
+In this message someone asked Jean for everyones Social Security Numbers, and it looks
+like she handed them over. Thats no good.
+
