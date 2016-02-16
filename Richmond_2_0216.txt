@@ -1,0 +1,18 @@
+tcpick-
+textmode sniffer libpcap-based that tracks tcp streams and saves data captured
+ in different files
+
+chaosreader-
+are tool to trace TCP/UDP/ sessions and fetch application data from snoop or
+tcpdum[ logs. any-snarf programs.
+
+tcpflow-
+captures data transmitted as part of TCP connections and stores data in a way 
+that is convenient for protocol analysis or debugging.
+
+driftnet-
+watches network traffi, and picks out and displays JPEG and GIF images for
+display.
+
+wire tap communication laws say no to tcpflow on private networks that arent
+yours.
