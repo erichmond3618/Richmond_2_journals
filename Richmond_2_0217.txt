@@ -1,0 +1,18 @@
+pages-
+session_0003.textSSH.html
+
+session_0117.http.html
+
+stream_0009.domain.html
+
+or is it these?
+10.4.27.10	2587
+208.80.153.240	1663
+216.239.32.20	646
+
+no images were viewed
+
+I think chaos reader gives some text and a bunch of IP Addresses. and time
+of access for webpages.
+
+chaosreader ninja90217_c.pcap
