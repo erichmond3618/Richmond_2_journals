@@ -1,0 +1,128 @@
+1. apt-transport-tor - APT transport for anonymous package downloads via Tor
+bluefish - advanced Gtk+ text editor for web and software development
+can-utils - SocketCAN userspace utilities and tools
+cdpsnarf - Network sniffer to extract CDP information
+daemonlogger - simple network packet logger and soft tap daemon
+darkstat - network traffic analyzer
+dsniff - Various tools to sniff network traffic for cleartext insecurities
+dvbsnoop - DVB / MPEG stream analyzer
+etherpuppet - create a virtual interface from a remote Ethernet interface
+ettercap-common - Multipurpose sniffer/interceptor/logger for switched LAN
+ettercap-graphical - Ettercap GUI-enabled executable
+ettercap-text-only - Ettercap console-mode executable
+freeradius-utils - FreeRADIUS client utilities
+fusiondirectory-plugin-developers - Provide doc and tools for FusionDirectory development
+gssdp-tools - GObject-based library for SSDP (tools)
+gvpe - creates a virtual ethernet between multiple endpoints
+hamster-sidejack - Sidejacking tool
+hexinject - Versatile packet injector and sniffer
+hunt - Advanced packet sniffer and connection intrusion
+jpnevulator - Serial sniffer
+kismet - wireless sniffer and monitor - core
+kismet-plugins - wireless sniffer and monitor - plugins
+libanimal-sniffer-java - JDK/API verification tools
+libanimal-sniffer-java-doc - Documentation for Animal Sniffer
+libcrafter - Library to generate and sniff network packets
+libhttp-browserdetect-perl - module to extract system data from an HTTP User Agent string
+libio-html-perl - open an HTML file with automatic charset detection
+libwiretap-dev - network packet capture library -- development files
+libwiretap4 - network packet capture library -- shared library
+nast - packet sniffer and lan analyzer
+netexpect - Network Expect, a framework for manipulating network packets
+netsniff-ng - Linux network packet sniffer toolkit
+netwox - networking utilities
+netwox-doc - documentation for netwox toolbox
+ngrep - grep for network traffic
+ohrwurm - RTP fuzzer
+olsrd-plugins - various plugins to enhance olsrd
+pcredz - Extracts authentication credentials from network captures
+php-codesniffer - PHP, CSS and JavaScript coding standard analyzer and checker
+pylint - Python code static checker and UML diagram generator
+python-nids - Python binding for libnids (aka pynids)
+python-scapy - Packet generator/sniffer and network scanner/discovery
+rkhunter - rootkit, backdoor, sniffer and exploit scanner
+sipcrack - SIP login dumper/cracker
+sniffit - packet sniffer and monitoring tool
+sniffjoke - Transparent TCP connection scrambler
+sslsniff - SSL/TLS man-in-the-middle attack tool
+tcpick - TCP stream sniffer and connection tracker
+tcptrack - TCP connection tracker, with states and speeds
+torchat - decentralized instant messenger built on top of the Tor Network
+tshark - network traffic analyzer - console version
+vnstat - console-based network traffic monitor
+wireshark - network traffic analyzer - GTK+ version
+wireshark-common - network traffic analyzer - common files
+wireshark-dbg - network traffic analyzer - debug symbols
+wireshark-dev - network traffic analyzer - development tools
+wireshark-doc - network traffic analyzer - documentation
+wireshark-qt - network traffic analyzer - Qt version
+wol-e - Wake on LAN Explorer
+xspy - X server sniffer
+firmware-ipw2x00 - Binary firmware for Intel Pro Wireless 2100, 2200 and 2915
+vusb-analyzer - tool for visualizing logs of USB packets
+
+2.sipcrack - SIP login dumper/cracker
+sniffit - packet sniffer and monitoring tool
+sniffjoke - Transparent TCP connection scrambler
+
+3. Whatever the command did the answer is false cause its a 0.
+
+4. making it1 makes it true.
+
+5. apt-get install Zenmap, apt-get update
+
+6. Everything is closed.
+
+7. for 10, there were less closed thigns, for 100, there were no closed things
+
+8. I got this- 
+Starting Nmap 6.49BETA4 ( https://nmap.org ) at 2016-02-24 11:06 EST
+about a minute later i got a bunch of these-
+Nmap scan report for 10.4.27.15
+Host is up (0.00043s latency).
+Not shown: 98 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+111/tcp open  rpcbind
+
+9. Searching for computers and networks and such is important for getting
+the bad guys.
+
+10. an OS is an Operating System.
+
+11. It's good to know what OS computers are running cause they're all 
+different and you gotta do different stuff to access them or something.
+
+12.nmap -O 10.4.27.1-100
+
+13.10.4.27.22?
+
+14.
+
+15. nmap --iflist does this- Starting Nmap 6.49BETA4 ( https://nmap.org ) at 2016-02-25 10:45 EST
+************************INTERFACES************************
+DEV  (SHORT) IP/MASK                     TYPE     UP MTU   MAC
+eth0 (eth0)  10.0.2.15/24                ethernet up 1500  08:00:27:75:B0:77
+eth0 (eth0)  fe80::a00:27ff:fe75:b077/64 ethernet up 1500  08:00:27:75:B0:77
+lo   (lo)    127.0.0.1/8                 loopback up 65536
+lo   (lo)    ::1/128                     loopback up 65536
+
+**************************ROUTES**************************
+DST/MASK                     DEV  METRIC GATEWAY
+10.0.2.0/24                  eth0 0
+0.0.0.0/0                    eth0 1024   10.0.2.2
+::1/128                      lo   0
+fe80::a00:27ff:fe75:b077/128 lo   0
+::1/128                      lo   256
+fe80::/64                    eth0 256
+ff00::/8                     eth0 256
+
+16.ipv4 addresses- 
+
+17.ipv6 addresses- 
+
+18. the difference is 
+
+19. Its good to get a picture of what the network looks like, so you know
+what your dealing with, ya kno. and you can easily see which computers are
+connected to which.

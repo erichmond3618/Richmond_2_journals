@@ -1,0 +1,37 @@
+1. list wireless devices with lspci
+
+2. Kismet is a network packet logging software.
+
+3. It is illegal to log packets off of your own private network.
+
+4. Kismet could be used for monitoring suspects or monitoring criminal activity.
+
+5. War-driving is when someone is actively searching for wireless networks 
+while in a moving vehicle.
+
+6. Piggy-backing is when you are connecting to the internet from another 
+person’s internet service.
+
+7. Piggy-backing holds greater risks since when you connect to a network 
+you expose yourself.
+
+8. It can be used to monitor if other people are wrongfully using your network.
+
+9. Kismet could be used to catch someone attempting to arp poison someone.
+
+10.
+DStumbler: text output
+G-Mon: .kml, .txt output
+inSSIDer: kml output
+Kismac: native (.kismac), text, kml output
+Kismet: .csv, .xml, .netxml, .gps, .gpsxml, .nettxt, CWGD output
+MacStumbler: plist xml, wiscan format
+NetStumbler: native (.ns1), text, wiscan, summary
+Pocket Warrior: Text output
+Wardrive-Android: kml output
+WiFiFoFum: kml, kmz output
+WiFi-Where: ns1, kml, csv output.
+Wigle Wifi Wardriving: csv output
+Consolidated.db
+
+11. To document all wifi networks in the united states
