@@ -1,0 +1,18 @@
+Bluetooth is a wireless technology standard for exchanging data over short 
+distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 
+2.485 GHz[4]) from fixed and mobile devices, and building personal 
+area networks (PANs). 
+
+1. hciconfig  is used to configure Bluetooth devices.
+ hciconfig -a hciX up
+2. hcitool  is  used to configure Bluetooth connections and send some special 
+command to Bluetooth devices. 
+ hcitool -i <hciX> dev
+3.hcidump  reads raw HCI data coming from and going to a Bluetooth device and
+prints to screen commands, events and data in a human-readable form.
+hcidump -h
+
+ussp-push - Client for OBEX PUSH
+ussp-push-dbg - Client for OBEX PUSH (debugging information)
+wiipdf - present a PDF file using your wiimote
+this one works with the wii mote^
