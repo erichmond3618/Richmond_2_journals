@@ -1,0 +1,37 @@
+luehacking, bluejacking, marphing, bluesniping, and bluesnafting are just
+a few of the names given to the act of hacking a device via Bluetooth.
+Most of the tools that are being used to hack Bluetooth phones use the Java 
+programming language.
+Bluebugging: An extraordinarily powerful attack mechanism, 
+bluebugging allows an attacker to
+ take control of a victim's phone 
+using the AT command parser. Bluebug 
+allows an attacker to access a 
+victim's phone in order to make
+ phone calls, send short message 
+service (SMS) messages,
+ read SMS messages stored on the phone, 
+read and write contact list entri
+es, alter phone service parameters, 
+connect to the Internet, set call forwarding, and more (Bluebugging, 
+n.d.; Laurie et al., 2006). 
+•
+Bluejacking: The sending of unsolicited messages to open Bluetooth 
+devices by sending a vCard with a message in the name field and 
+exploiting the OBEX protocol (Bluejacking, 2009). 
+•
+Bluesmack: A Bluetooth analog of the Ping-of-Death denial-of-service 
+attack. This is a buffer overflow attack using L2CAP echo messages 
+(Bluesmack, n.d.; Laurie, 2006)
+
+
+2.there is suspicious traffic. I am probably being hacked.
+
+3.I left my bluetooth on. now people are up in my BTCrack.
+
+4.I already told you. i left my bluetooth on like a dummy.
+
+5. Someone took all my money from my bank account after I went to starbucks
+while my bluetooth was on. Thats some good evidence.
+
+6. I won't leave my bluetooth on anymore. especially in public.

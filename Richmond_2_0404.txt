@@ -1,0 +1,3 @@
+Describe how far you are in your Bluetooth investigation.
+
+I am currently using bluetoothctl. I'm scanning mac addresses and such.
