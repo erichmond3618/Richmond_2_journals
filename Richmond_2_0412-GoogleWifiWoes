@@ -1,0 +1,11 @@
+Google had been "mistakenly collecting samples of payload data from open 
+(i.e. non-password-protected) Wi-Fi networks" for three years.
+
+they used an edited kismet that discarded encrypted information.
+
+Google passively scanned with their google cars. They were able to pick up
+payload data from wifi hotspots.
+
+Eh. Google is pretty sketch, but it doesn't seem like they can do a whole lot
+with unencrypted bits and pieces of payload data from starbucks laptops.
+
