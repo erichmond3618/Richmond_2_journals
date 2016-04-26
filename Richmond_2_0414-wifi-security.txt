@@ -1,0 +1,9 @@
+﻿Hackers can use public wifi to easily hack into your computer.
+
+Using a vpn is an easy solution to security on public networks.
+
+Virtual Private Networ(VPN) is a secure connection that puts a mask on your 
+computer and encrypts all outgoing data. 
+VPNs are not very complicated to setup but they usually require a dedicated server to 
+access. VPNs are essential for hiding sensitive information using public internet 
+connections.

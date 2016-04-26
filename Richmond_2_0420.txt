@@ -1,0 +1,24 @@
+1. bandwidth of wifi- can be 16 MHz to 40 MHz
+
+2. wifi has channels 1 to 14, 12 to 14 being illegal. 
+
+3. people commonly use 1, 6,  and 11 because they don't overlap with each other.
+
+A, B, G, N, and AC defined wireless protocols use different schemes.
+
+
+4. WEP- Wired Equivalent privacy- meant to have same level of security as wired networks, but 
+has much security flaws.
+WPA- Wi-Fi Protected Access- better security than WEP. uses preshared key and Temporal key
+integrity protocal for encryption.
+WPA2- Wi-Fi Protected Access Version 2- uses advanced encryption Standard. real secure.
+
+5. WEP is least secure, WPA2 is most secure.
+
+6. AirSnort is a utility for decrypting WEP encryption on 802.11b networks.
+
+7. Kismet can be used legally to scan traffic in a network or setup a intrusion decection 
+system.
+
+8. KARMA is a set of tools for assessing the security of wireless clients at multiple 
+layers.

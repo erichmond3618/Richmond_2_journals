@@ -1,0 +1,7 @@
+I have not logged into my router at home.
+I use whatever router the time warner one is.
+ I do not know what firmware it uses.
+I do not know my essid.
+the router is probably using channel 6 becuase its default.
+Yes we have changed the default password, because it makes it a bit more secure.
+Yes you should change it because the default password is usually really easy to guess.

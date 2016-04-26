@@ -1,0 +1,7 @@
+To make Kismet not illegal, don't log packets with it.
+
+WEP(Wired Equivalent Privacy) is unsecure because it is very easy to get the
+key from the network due to its method of using XOR to authenticate. WPA is
+better.
+you can get the key by XORing the cyphertext and cleartext which is something
+you can get from listening to someones connection.
