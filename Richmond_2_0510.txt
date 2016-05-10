@@ -1,0 +1,20 @@
+WAP- Wireless access point. its a networking hardware device that allows wifi 
+complient devices to connect to a wired network. you stick em in routers.
+
+client- A device that connects to a Wi-Fi (wireless) network
+
+bridge- used to connect desktop computers and printers without cables.
+
+repeater- takes an existing signal from a wireless router or wireless access 
+point and rebroadcasts it to create a second network
+
+ad-hoc mode- decentralized type of wireless network
+
+mesh network- a communications network made up of radio nodes organized in a 
+mesh topology
+
+war chalking- the drawing of symbols in public places to advertise an open 
+Wi-Fi network
+
+rogue AP- wireless access point that has been installed on a secure network 
+without explicit authorization
