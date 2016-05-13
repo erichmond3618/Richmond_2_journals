@@ -1,0 +1,42 @@
+
+    Did Saul break the law? Why or why not?
+	Yah Saul broke the law. He hacked the system.
+
+    Who is Knuth? What is his job? What do you suspect? Why?
+	Knuth is a Cyber Sleuth who steals the cyber data. He does it for fun.
+
+    What hardware did Saul requisition? Why? Provide a brief description and 
+	explanation for each.
+	Saul got a bunch of routers and bluetooth devices and repurposed them to steal.
+
+    What software did Saul utilize? Why? Provide a brief description and explanation 
+	for each.
+	Saul used the hacking software that we have been looking at for a bit. He used it
+	hack the system. the first hacking tool is gubunt and us used to steal the stuff.
+	the second one is thorton, and is used to cover his tracks.
+
+    Explain - in ten steps - WITH SPECIFICS - how Saul compromised network security.
+	1.Saul got the hacking tools
+	2.Saul encrypted his connection
+	3.Saul got into the system
+	4.Saul found the goods
+	5.Saul copied the goods
+	6.Saul got outta there
+	7.Saul used the goods to get the money from the bank accounts
+	8.Saul Left the country
+	9.Saul lived in isolation
+	10.Saul lived happily.
+
+    Make a parts list from web sites you have access to - of what equipment an 
+	attacker today might use. Fab-corp is the best site - but it's blocked
+	you need a computer
+	a dongle
+	a server
+	a monitor
+	a keyboard
+	mice are nice but not required
+	then you can hack the system
+
+    Explain: which aspects of Saul's exploits are still a danger? Why? Why not?
+	well security is never perfect, so the part where he calls the dude on the phone
+	and he gives him the password is still an issue. Human error can't be fixed.
