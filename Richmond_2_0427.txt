@@ -1,0 +1,10 @@
+WEP is vulnerable for many reasons. sometimes people forget to enable it. some people 
+dont change the password often so someone can grab all the frames he needs to crack it. 
+The IV is too small and clear text, the IV is static, the IV makes the key stream 
+vulnerable.
+
+the network traffic will increase slowing down the network If your WEP has been 
+compromised.
+
+to protect your network, change your password often, or dont use WEP. we have better 
+security options.
