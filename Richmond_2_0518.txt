@@ -1,0 +1,19 @@
+Make a list of the top ten security take aways - i.e., bullet points with brief 
+descriptions
+-Shared info is used to validate machines prior to session creation
+-software products are not perfect
+-virus and trojan detection software relies on signature files
+-attackers can chang the identity or signature of a file quickly
+-you can't protect against every possible modification
+-firewalls can be software or hardware or both.
+-the primary function of a firewall is to filter incoming and outgoing packets
+-intrusion detection systems (IDSs) are often passive designs
+-it is difficult for an attacker to detect the presence of IDS systems when probing
+-crypto is hard
+
+Which of these is the least surprising? Why?
+-the primary function of a firewall is to filter incoming and outgoing packets
+thats what firewalls do man.everyone knows that.
+Which one of these is the most surprising (might the fewest people know)? Why?
+-firewalls can be software or hardware or both.
+hardware firewall? waaat? I thought that was just a software/firmware thing.
