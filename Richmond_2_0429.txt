@@ -1,7 +1,12 @@
-1. 
+What are 3 types of aftermarket firmwares for routers?
+-openwrt: hardware and software
+ ddwrt: unleash router
 
-2.
+What are the advantages of such firmware?
+-easily pushed out virtually instead of physically
 
-3.
+What are the disadvantages?
+-the firmware could miss pieces or fail to send or be altered
 
-4.
+What is the process of installing such firmware?
+-downloading the firmware and then send a push update to the router
